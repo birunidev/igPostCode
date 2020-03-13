@@ -1,0 +1,15 @@
+{
+  "name": "ig-post-code",
+  "version": "1.0.0",
+  "description": "Ini adalah kumpulan Code yang ada di postingan ig birunidev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "igPostCode"
+  },
+  "author": "birunidev",
+  "license": "ISC"
+}
